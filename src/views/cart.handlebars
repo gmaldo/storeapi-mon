@@ -1,0 +1,12 @@
+{{#if flag}}
+    <h1>Your Cart</h1>
+    <ul>
+        {{#each cartProducts}}
+        <li>
+            <strong>Product:</strong> {{product.title}} - <strong>Quantity:</strong> {{quantity}}
+        </li>
+        {{/each}}
+    </ul>
+{{else}}
+    <h1>Carrito NO ENCONTRADO</h1>
+{{/if}}

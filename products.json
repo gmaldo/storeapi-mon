@@ -1,0 +1,217 @@
+[
+  {
+    "title": "Laptop Pro",
+    "description": "High-performance laptop for professionals.",
+    "code": "LP1001",
+    "price": 3,
+    "status": true,
+    "stock": 50,
+    "category": "Electronics",
+    "thumbnails": [
+      "image1.jpg",
+      "image2.jpg"
+    ]
+  },
+  {
+    "title": "Smartphone X",
+    "description": "Latest smartphone with cutting-edge technology.",
+    "code": "SP2001",
+    "price": 999.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electronics",
+    "thumbnails": []
+  },
+  {
+    "title": "Wireless Headphones",
+    "description": "Noise-cancelling over-ear headphones.",
+    "code": "WH3001",
+    "price": 199.99,
+    "status": true,
+    "stock": 200,
+    "category": "Accessories",
+    "thumbnails": [
+      "headphones.jpg"
+    ]
+  },
+  {
+    "title": "Smartwatch",
+    "description": "Fitness and health tracking smartwatch.",
+    "code": "SW4001",
+    "price": 249.99,
+    "status": true,
+    "stock": 150,
+    "category": "Wearables",
+    "thumbnails": [
+      "smartwatch.jpg",
+      "smartwatch2.jpg"
+    ]
+  },
+  {
+    "title": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with rich sound.",
+    "code": "BS5001",
+    "price": 79.99,
+    "status": false,
+    "stock": 0,
+    "category": "Audio",
+    "thumbnails": [
+      "speaker.jpg"
+    ]
+  },
+  {
+    "title": "Gaming Mouse",
+    "description": "High-precision gaming mouse with RGB lighting.",
+    "code": "GM6001",
+    "price": 59.99,
+    "status": true,
+    "stock": 300,
+    "category": "Accessories",
+    "thumbnails": []
+  },
+  {
+    "title": "4K Monitor",
+    "description": "Ultra HD 4K monitor with stunning clarity.",
+    "code": "M7001",
+    "price": 399.99,
+    "status": true,
+    "stock": 75,
+    "category": "Electronics",
+    "thumbnails": [
+      "monitor.jpg",
+      "monitor2.jpg"
+    ]
+  },
+  {
+    "title": "Wireless Charger",
+    "description": "Fast wireless charger for smartphones.",
+    "code": "WC8001",
+    "price": 29.99,
+    "status": true,
+    "stock": 500,
+    "category": "Accessories",
+    "thumbnails": []
+  },
+  {
+    "title": "Tablet Pro",
+    "description": "High-end tablet with powerful features.",
+    "code": "TP9001",
+    "price": 849.99,
+    "status": true,
+    "stock": 120,
+    "category": "Electronics",
+    "thumbnails": [
+      "tablet.jpg"
+    ]
+  },
+  {
+    "title": "External SSD",
+    "description": "Portable external SSD with high-speed transfer.",
+    "code": "ESD10001",
+    "price": 149.99,
+    "status": true,
+    "stock": 250,
+    "category": "Storage",
+    "thumbnails": []
+  },
+  {
+    "title": "Mechanical Keyboard",
+    "description": "Durable mechanical keyboard with customizable keys.",
+    "code": "MK1101",
+    "price": 129.99,
+    "status": true,
+    "stock": 80,
+    "category": "Accessories",
+    "thumbnails": ["keyboard1.jpg", "keyboard2.jpg"]
+  },
+  {
+    "title": "Gaming Chair",
+    "description": "Ergonomic gaming chair for long sessions.",
+    "code": "GC1201",
+    "price": 299.99,
+    "status": true,
+    "stock": 40,
+    "category": "Furniture",
+    "thumbnails": ["chair1.jpg"]
+  },
+  {
+    "title": "HD Webcam",
+    "description": "1080p webcam with built-in microphone.",
+    "code": "WC1301",
+    "price": 89.99,
+    "status": true,
+    "stock": 150,
+    "category": "Electronics",
+    "thumbnails": ["webcam1.jpg"]
+  },
+  {
+    "title": "Portable Power Bank",
+    "description": "Fast-charging portable power bank with 10,000mAh.",
+    "code": "PB1401",
+    "price": 49.99,
+    "status": true,
+    "stock": 600,
+    "category": "Accessories",
+    "thumbnails": []
+  },
+  {
+    "title": "VR Headset",
+    "description": "Immersive VR headset with advanced motion tracking.",
+    "code": "VR1501",
+    "price": 499.99,
+    "status": true,
+    "stock": 30,
+    "category": "Electronics",
+    "thumbnails": ["vr1.jpg", "vr2.jpg"]
+  },
+  {
+    "title": "Noise-Cancelling Earbuds",
+    "description": "Wireless earbuds with active noise cancellation.",
+    "code": "EB1601",
+    "price": 159.99,
+    "status": true,
+    "stock": 400,
+    "category": "Audio",
+    "thumbnails": ["earbuds1.jpg"]
+  },
+  {
+    "title": "Electric Scooter",
+    "description": "Compact electric scooter with 25km range.",
+    "code": "ES1701",
+    "price": 699.99,
+    "status": true,
+    "stock": 20,
+    "category": "Transportation",
+    "thumbnails": ["scooter1.jpg"]
+  },
+  {
+    "title": "Smart Home Hub",
+    "description": "Voice-controlled hub for smart home devices.",
+    "code": "SH1801",
+    "price": 119.99,
+    "status": true,
+    "stock": 200,
+    "category": "Smart Home",
+    "thumbnails": []
+  },
+  {
+    "title": "Action Camera",
+    "description": "4K action camera for extreme sports.",
+    "code": "AC1901",
+    "price": 249.99,
+    "status": true,
+    "stock": 90,
+    "category": "Cameras",
+    "thumbnails": ["camera1.jpg"]
+  },
+  {
+    "title": "Electric Kettle",
+    "description": "Stainless steel electric kettle with fast boiling.",
+    "code": "EK2001",
+    "price": 39.99,
+    "status": true,
+    "stock": 300,
+    "category": "Home Appliances",
+    "thumbnails": []
+  }
+]

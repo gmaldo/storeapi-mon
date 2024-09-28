@@ -1,0 +1,30 @@
+{{#if isValid}}
+<div class="products-container">
+    {{#each docs}}
+    <div class="product-card">
+        <a href="./products/{{this.id}}"><h2>{{this.title}}</h2></a><br>
+        <strong>ID:</strong> {{this._id}}<br>
+        <strong>Descripción:</strong> {{this.description}}<br>
+        <strong>Código:</strong> {{this.code}}<br>
+        <strong>Precio:</strong> <span class="price">${{this.price}}</span><br>
+        <strong>Estado:</strong> {{#if this.status}}Disponible{{else}}No disponible{{/if}}<br>
+        <span class="stock">Stock: {{this.stock}} unidades</span><br>
+        <span class="category">{{this.category}}</span>
+        <hr>
+    </div>
+    {{/each}}
+</div>
+
+    <br/>
+    {{#if hasPrevPage}}
+        <a href={{this.prevLink}}><< Anterior</a>
+    {{/if}}
+    &nbsp;
+    {{this.page}}
+    &nbsp;
+     {{#if hasNextPage}}
+        <a href={{this.nextLink}}>Siguiente >></a>
+    {{/if}} 
+{{else}}
+        <p>No hay productos disponibles.</p>
+{{/if}}
