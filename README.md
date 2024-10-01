@@ -27,7 +27,7 @@ Al conectarse a mongo atlas desde una IP nueva, debe autorizarce dicha IP. Si no
 ```
 Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
 ```
-Si se desea probar 
+Si se desea probar recomiendo crear una db propia en tu propia cuenta de mongo atlas y cargar los datos utilizando lo mencionado en la seccion DATOS.
 
 # Vistas
 ## Lista de productos
